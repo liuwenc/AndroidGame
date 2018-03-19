@@ -15,6 +15,7 @@ class ANDROIDGAME_API AAndroidGameGameModeBase : public AGameModeBase
 	GENERATED_BODY()
 	
 	
-	
+public:
+	AAndroidGameGameModeBase();
 	
 };
